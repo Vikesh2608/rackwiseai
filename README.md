@@ -1,3 +1,4 @@
+
 # 🧠 RackWiseAI - Predictive Failure Detection (Dockerized)
 
 RackWiseAI is an ML-powered FastAPI application designed to predict hardware failure risk in server racks.  
